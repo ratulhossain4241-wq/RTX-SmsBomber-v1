@@ -8,7 +8,7 @@ requests>=2.28.0
 beautifulsoup4>=4.11.0
 
 # System monitoring (optional but recommended)
-psutil>=5.9.8
+# psutil>=5.9.8
 
 # SSL/TLS support
 urllib3>=1.26.0
